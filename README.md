@@ -1,5 +1,5 @@
 # heheMoji
-Free female emoji
+Free female emoji and sticker Pack
 the files contain png files and Adobe Illustrator files so you can edit them, and generate your version/combinations.
 heheMoji Pack on telegram: https://t.me/addemoji/heheeeMoji
 heheSticker Pack on telegram: https://t.me/addstickers/heeheeeStickers
